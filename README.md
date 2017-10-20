@@ -6,7 +6,7 @@ Shell Script for AWS Deploy. Written By [황준우](https://github.com/capollux)
 
 **Ubuntu 16.04 LTS**로 EC2 Instance를 생성한다. 본 스크립트는 해당 OS를 바탕으로 작성되었다.
 
-## 2. Project 설정 (Client)
+## 2. Project 설정 (Workspace)
 
 ### 2.1. Gemfile
 
